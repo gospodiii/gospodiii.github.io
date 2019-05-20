@@ -1,0 +1,36 @@
+#a {
+text-align: right;
+
+font-size: 18px;
+}
+
+h1 {
+text-align: center;
+color: #800080;
+}
+
+body {
+background: linear-gradient(to right, #C7A1C7, #A162A1);
+
+}
+
+a {
+text-decoration: none;
+font-family: helvetica;
+}
+
+img {
+    padding:  30px; /* Поля вокруг текста */
+    border: 2px solid black; /* Параметры границы */
+    background: #9c99cc; /* Цвет фона */
+	border-radius: 5px 5px 5px 5px;
+	cursor: help;
+}
+
+h2 {
+font-family: helvetica;	
+text-align: right;
+font-variant: small-caps;
+font-size: 20px;
+font-weight: 900;
+}
