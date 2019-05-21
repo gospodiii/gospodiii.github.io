@@ -1,7 +1,10 @@
 #a {
 text-align: right;
-
 font-size: 18px;
+}
+
+html { 
+overflow:  hidden;
 }
 
 h1 {
