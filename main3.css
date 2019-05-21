@@ -5,6 +5,7 @@ font-size: 18px;
 
 html { 
 overflow:  hidden;
+	overflow-y: scroll;
 }
 
 h1 {
